@@ -1,0 +1,37 @@
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\Entinity_Framework deneme.exe.config
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework deneme.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.frmanaform.resources
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework deneme.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\Entinity_Framework deneme.exe
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\Entinity_Framework deneme.pdb
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework deneme.exe
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework deneme.pdb
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.frmurun.resources
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.frmistatistik.resources
+C:\Users\asus\Desktop\udemy kurs\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.frmgiris.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\Entinity_Framework deneme.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework deneme.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework deneme.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\Entinity_Framework deneme.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\Entinity_Framework deneme.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework deneme.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.frmanaform.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.frmgiris.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.frmistatistik.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.frmurun.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework deneme.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\Entinity_Framework_deneme.Form2.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\RdlCompile.cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\Entinity_Framework deneme\Entinity_Framework deneme\obj\Debug\RdlCompile.compiled
